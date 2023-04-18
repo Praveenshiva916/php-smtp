@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.section-1 {
+    background-color: #efefef;
+}
+.ci {
+    margin-left: 15px;
+}
+.icon-bar ul li a {
+    color: #2c2c2c;
+}
+.header2 {
+    
+    background-color: #fff;
+}
+.row {
+    display: flex;
+   
+}
+.header2 .logo-img {
+    height: 30px;
+}
+.btn {
+    background-color: #f8c12c !important;
+    border-color: #f8c12c !important;
+    color: black !important;
+}
+#navbar-collapse .navbar-nav {
+    font-weight: 800;
+}
+#header  {
+    position: sticky;
+    top:0;
+    z-index: 1;
+}
+.carousel-item {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+    font-size: 12px;
+}
+li.nav-item {
+    margin-right: 4px;
+    font-weight: 700;
+    font-size: 11px;
+}
+.pad-top {
+
+    padding-top: 11rem;
+}
+.opacity {
+    color: white;
+    padding: 2rem;
+    background: rgba(0,0,0,0.5);
+    max-width: 600px;
+}
+.con-ind {
+    font-size: 30px;
+}
+.goal {
+    font-size: 14px;
+}
+.know-us {
+    font-size: 12px;
+}
+.section-3 {
+    background-color: #272d33;
+    color: white;
+}
+.section-4 {
+    padding-top: 5rem;
+}
+.section-5 {
+    background-color: black;
+    padding: 70px 0;
+    color: white;
+}
+.section-6 {
+    padding-top: 5rem;
+}
+.fs {
+    font-size: 18px;
+}
+.fw {
+    font-weight: 700;
+}
+.section-7 {
+    padding-top: 70px;
+    background-color: #efefef;
+}
+.clr {
+    color: #212121!important;
+    font-size: 14px;
+    border-radius: none !important;
+}
+.nav-br {
+    margin: 20px 0 50px;
+    width: 100%;
+    display: inline-block;
+    border-bottom: 4px solid #f8c12c;
+}
+.butn {
+    background-color: #f8c12c;
+    border-radius: none !important;
+    padding: 6px 25px;
+    text-decoration: none;
+}
+.mr {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+.vap {
+    border-radius: 2px !important;
+    width: 190px !important;
+    padding: 5px;
+    color: white !important;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.section-8 {
+    padding-top: 4rem;
+}
+.quote-top {
+    padding-top: 2rem;
+    display: flex;
+    font-style: italic;
+    font-size: 18px;
+}
+.quote {
+    font-size: 40px;
+    margin-top: -12px;
+    color:#f8c12c;
+}
+.mar-left {
+    margin-left: 2rem;
+}
+.img-left {
+    margin-left: 68px;
+}
+.gd {
+    margin-top: 20px;
+}
+.quote-item-info {
+    padding-top: 12px;
+
+}
+.im-flu {
+
+    width: 100px;
+}
+.line-logo {
+    border: 1px solid #dadada;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    min-height: 100px;
+}
+.subscribe {
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+}
+.text-num {
+    margin-left: 60px;
+}
+.subscribe-color {
+    background-color: #ffb600;
+}
+.newsletter-color {
+    background-color: #212121;
+}
+.ts-newsletter {
+    margin-top: 1.5rem;
+}
+.newsletter-text {
+    padding-top: 1rem;
+}
+.newsletter-form {
+    margin-right: 80px;
+    
+    font-size: 12px;
+    padding: 0.8rem;
+    background: transparent;
+    border: 1px solid #676767;
+}
+.section-9 {
+    padding-top: 3rem;
+}
+.work-ex {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.all-post {
+    width: 150px !important;
+}
+.section-10 {
+    background-color: black;
+    padding: 50px 0 40px;
+
+}
+.bor-left {
+    border-left: 3px solid#f8c12c;
+    margin-bottom: 25px;
+}
+.about-us {
+    margin-left: 14px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.footer-img {
+    width: 200px;
+}
+.footer-para {
+    margin-top: 20px;
+    color:#999999;
+    font-size: 14px;
+
+}
+.footer-icon {
+    color: #999999;
+    margin-right: 8px;
+}
+.footer-para2 {
+    margin-top: 20px;
+    color:#999999;
+    font-size: 14px;
+}
+.footer-width {
+    width: 50%;
+    color:#999999;
+}
+.monday {
+    text-align: left;
+}
+.timing {
+    text-align: right;
+}
+.services {
+    text-decoration: none;
+    color:#999999;
+}
+li.sercices-li {
+    border-bottom: 1px solid;
+    margin-bottom: 9px;
+    
+}
+.section-11 {
+    background-color: #ffb600;
+    padding: 25px 0 25px
+}
+.copyright-para {
+    margin-bottom: 0;
+}
+.angle {
+    margin-right: 12px;
+}
+.bx-wrapper {
+    box-shadow: 0 0 0 #ccc;
+    -webkit-box-shadow: 0 0 0 #ccc;
+}
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #ffb600;
+}
+.prev-icon {
+    margin-left: -10px;
+}
+
